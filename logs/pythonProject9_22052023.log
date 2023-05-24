@@ -1,0 +1,64 @@
+2023-05-24 12:19:42,314 - INFO - billing_services.py:30 - create_item - services:create_item
+2023-05-24 12:19:42,321 - INFO - billing_handler.py:32 - create_data - Handler:create_data
+2023-05-24 12:19:42,386 - INFO - billing_handler.py:35 - create_data - create_data:record created successfully
+2023-05-24 12:20:10,590 - INFO - billing_services.py:30 - create_item - services:create_item
+2023-05-24 12:20:10,591 - INFO - billing_handler.py:32 - create_data - Handler:create_data
+2023-05-24 12:20:10,640 - INFO - billing_handler.py:35 - create_data - create_data:record created successfully
+2023-05-24 12:22:58,328 - INFO - billing_handler.py:20 - read_data - Handler:read_data
+2023-05-24 12:22:58,328 - INFO - billing_handler.py:23 - read_data - read_data:Record Found
+2023-05-24 12:22:58,387 - INFO - billing_services.py:68 - send_item - services:send_item
+2023-05-24 12:22:58,389 - INFO - billing_handler.py:68 - pipeline_aggregation - Handler:pipeline_aggregation
+2023-05-24 12:22:58,390 - ERROR - billing_handler.py:72 - pipeline_aggregation - Exception in pipeline_aggregation: Aggregation() takes no arguments
+2023-05-24 12:22:58,391 - ERROR - billing_services.py:77 - send_item - Exception in send_item: cannot access local variable 'data' where it is not associated with a value
+2023-05-24 12:23:00,214 - INFO - billing_handler.py:20 - read_data - Handler:read_data
+2023-05-24 12:23:00,215 - INFO - billing_handler.py:23 - read_data - read_data:Record Found
+2023-05-24 12:23:00,273 - INFO - billing_services.py:68 - send_item - services:send_item
+2023-05-24 12:23:00,275 - INFO - billing_handler.py:68 - pipeline_aggregation - Handler:pipeline_aggregation
+2023-05-24 12:23:00,275 - ERROR - billing_handler.py:72 - pipeline_aggregation - Exception in pipeline_aggregation: Aggregation() takes no arguments
+2023-05-24 12:23:00,276 - ERROR - billing_services.py:77 - send_item - Exception in send_item: cannot access local variable 'data' where it is not associated with a value
+2023-05-24 12:24:28,612 - INFO - billing_services.py:30 - create_item - services:create_item
+2023-05-24 12:24:28,614 - INFO - billing_handler.py:32 - create_data - Handler:create_data
+2023-05-24 12:24:28,660 - INFO - billing_handler.py:35 - create_data - create_data:record created successfully
+2023-05-24 12:24:52,678 - INFO - billing_services.py:30 - create_item - services:create_item
+2023-05-24 12:24:52,680 - INFO - billing_handler.py:32 - create_data - Handler:create_data
+2023-05-24 12:24:52,799 - INFO - billing_handler.py:35 - create_data - create_data:record created successfully
+2023-05-24 12:25:18,659 - INFO - billing_services.py:30 - create_item - services:create_item
+2023-05-24 12:25:18,661 - INFO - billing_handler.py:32 - create_data - Handler:create_data
+2023-05-24 12:25:18,729 - INFO - billing_handler.py:35 - create_data - create_data:record created successfully
+2023-05-24 12:25:59,184 - INFO - billing_services.py:30 - create_item - services:create_item
+2023-05-24 12:25:59,186 - INFO - billing_handler.py:32 - create_data - Handler:create_data
+2023-05-24 12:25:59,272 - INFO - billing_handler.py:35 - create_data - create_data:record created successfully
+2023-05-24 12:33:06,037 - INFO - billing_services.py:85 - get_billing - services:get_billing
+2023-05-24 12:33:06,040 - INFO - billing_handler.py:68 - pipeline_aggregation - Handler:pipeline_aggregation
+2023-05-24 12:33:06,040 - ERROR - billing_handler.py:72 - pipeline_aggregation - Exception in pipeline_aggregation: Aggregation() takes no arguments
+2023-05-24 12:33:06,041 - ERROR - billing_services.py:90 - get_billing - Exception in get_billing: cannot access local variable 'data' where it is not associated with a value
+2023-05-24 14:00:02,502 - INFO - billing_services.py:18 - view_all_items - services:view_all_items
+2023-05-24 14:00:02,504 - INFO - billing_handler.py:20 - read_data - Handler:read_data
+2023-05-24 14:00:02,505 - INFO - billing_handler.py:23 - read_data - read_data:Record Found
+2023-05-24 14:00:53,623 - INFO - billing_services.py:41 - update_item - services:update_item
+2023-05-24 14:00:53,627 - INFO - billing_handler.py:44 - update_data - Handler:update_data
+2023-05-24 14:00:53,701 - INFO - billing_handler.py:47 - update_data - update_data:Updated successfully
+2023-05-24 14:01:06,417 - INFO - billing_services.py:18 - view_all_items - services:view_all_items
+2023-05-24 14:01:06,418 - INFO - billing_handler.py:20 - read_data - Handler:read_data
+2023-05-24 14:01:06,419 - INFO - billing_handler.py:23 - read_data - read_data:Record Found
+2023-05-24 14:01:29,436 - INFO - billing_services.py:85 - get_billing - services:get_billing
+2023-05-24 14:01:29,439 - INFO - billing_handler.py:68 - pipeline_aggregation - Handler:pipeline_aggregation
+2023-05-24 14:01:29,454 - ERROR - billing_handler.py:72 - pipeline_aggregation - Exception in pipeline_aggregation: Aggregation() takes no arguments
+2023-05-24 14:01:29,455 - ERROR - billing_services.py:90 - get_billing - Exception in get_billing: cannot access local variable 'data' where it is not associated with a value
+2023-05-24 14:01:46,025 - INFO - billing_handler.py:20 - read_data - Handler:read_data
+2023-05-24 14:01:46,026 - INFO - billing_handler.py:23 - read_data - read_data:Record Found
+2023-05-24 14:01:46,063 - INFO - billing_services.py:68 - send_item - services:send_item
+2023-05-24 14:01:46,064 - INFO - billing_handler.py:68 - pipeline_aggregation - Handler:pipeline_aggregation
+2023-05-24 14:01:46,065 - ERROR - billing_handler.py:72 - pipeline_aggregation - Exception in pipeline_aggregation: Aggregation() takes no arguments
+2023-05-24 14:01:46,065 - ERROR - billing_services.py:77 - send_item - Exception in send_item: cannot access local variable 'data' where it is not associated with a value
+2023-05-24 14:22:44,766 - INFO - billing_services.py:85 - get_billing - services:get_billing
+2023-05-24 14:22:49,564 - INFO - billing_handler.py:69 - pipeline_aggregation - Handler:pipeline_aggregation
+2023-05-24 14:22:49,565 - INFO - mongo_query.py:69 - pipeline_aggregation - mongo_query:pipeline_aggregation
+2023-05-24 14:23:31,982 - INFO - billing_handler.py:21 - read_data - Handler:read_data
+2023-05-24 14:23:31,984 - INFO - billing_handler.py:24 - read_data - read_data:Record Found
+2023-05-24 14:23:32,039 - INFO - billing_services.py:68 - send_item - services:send_item
+2023-05-24 14:23:32,041 - INFO - billing_handler.py:69 - pipeline_aggregation - Handler:pipeline_aggregation
+2023-05-24 14:23:32,041 - INFO - mongo_query.py:69 - pipeline_aggregation - mongo_query:pipeline_aggregation
+2023-05-24 14:23:32,065 - INFO - email_handler.py:25 - send_email - Handlers:send_email
+2023-05-24 14:23:34,101 - ERROR - email_handler.py:36 - send_email - Exception in send_email: 'NoneType' object has no attribute 'encode'
+2023-05-24 14:23:34,102 - INFO - billing_services.py:74 - send_item - send_item: Email Sent
